@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nopparat231&show_icons=true&theme=onedark" />
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopparat231&show_icons=true&theme=tokyonight" />
-
+<br />
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Freelance
