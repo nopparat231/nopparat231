@@ -5,7 +5,7 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopparat231&show_icons=true&theme=tokyonight" />
 
-- 🔭 I’m currently working as Freelance
+- 🔭 I’m currently working as a Freelance
 - 🌱 I’m currently learning Javascript Framework
 
 <!--
