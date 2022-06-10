@@ -5,6 +5,9 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopparat231&show_icons=true&theme=tokyonight" />
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working as a Freelance
 - 🌱 I’m currently learning Javascript Framework
 
