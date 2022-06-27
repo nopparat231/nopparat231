@@ -9,6 +9,8 @@
 - 🔭 I’m currently working as a Freelance
 - 🌱 I’m currently learning Javascript Framework
 
+<figure><embed src="https://wakatime.com/share/@add78311-2e33-419c-a2fa-c40eaabb197b/f9ef462b-cdb5-4109-b281-2d93b4e3658b.svg"></embed></figure>
+
 <!--
 **nopparat231/nopparat231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
